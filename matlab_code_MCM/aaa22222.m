@@ -1,0 +1,1 @@
+fopen("1234different_frequnce_faster.eps")
